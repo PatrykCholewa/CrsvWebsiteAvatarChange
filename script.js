@@ -1,10 +1,10 @@
 // ==UserScript==
 // @name         Craftserve Website Avatar Change 
 // @namespace    https://greasyfork.org/pl/users/416294-patrykcholewa
-// @version      1.0.1
+// @version      1.0.2
 // @description  Changes Steve emoji of user avatars to premium nick ones
 // @author       PatrykCholewa
-// @include      http://s*.csrv.pl/*
+// @include      http://*.csrv.pl/*
 // @grant        none
 // ==/UserScript==
 
